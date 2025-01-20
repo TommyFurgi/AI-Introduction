@@ -19,6 +19,15 @@ missingno = "^0.5.2"
 statsmodels = "^0.14.4"
 imbalanced-learn = "^0.12.4"
 lightgbm = "^4.5.0"
+torch = "^2.5.1"
+torchvision = "^0.20.1"
+opencv-python = "^4.10.0.84"
+transformers = "4.35.2"
+sacremoses = "0.1.1"
+datasets = "2.15.0"
+evaluate = "0.4.1"
+accelerate = "0.24.1"
+tensorboard = "^2.18.0"
 
 
 [build-system]
